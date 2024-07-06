@@ -1,7 +1,7 @@
 # Airline-Review-Analysis
 Analyzing Online Reviews of Singapore Airlines from September 2018 to March 2024
 
-The purpose of this repository is to showcase my skills in data visualization, dashboard creation, and performing sentiment analysis on written reviews using [NLTK VADER](https://www.nltk.org/api/nltk.sentiment.vader.html) for python (module citation found at bottom of README). The dataset I used for this project can be found [here](https://www.kaggle.com/datasets/kanchana1990/singapore-airlines-reviews) at kaggle.com. Finally, the dashboard which is the culmination of this project can be found [here](https://public.tableau.com/app/profile/travis.wolf1141/viz/AirlineReviews_17187414963740/Dashboard1) on Tableau Public.
+The purpose of this repository is to showcase my skills in data visualization, dashboard creation, and performing sentiment analysis on written reviews using [NLTK VADER](https://www.nltk.org/api/nltk.sentiment.vader.html) for python (module citation found at bottom of README). The dataset I used for this project can be found [here](https://www.kaggle.com/datasets/kanchana1990/singapore-airlines-reviews) at kaggle.com. The dashboard for this project can be found [here](https://public.tableau.com/app/profile/travis.wolf1141/viz/AirlineReviews_17187414963740/Dashboard1), on Tableau Public.
 
 
 
