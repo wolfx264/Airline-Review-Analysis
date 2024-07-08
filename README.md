@@ -1,15 +1,17 @@
 # Airline-Review-Analysis
 Analyzing Online Reviews of Singapore Airlines from September 2018 to March 2024
 
-The purpose of this repository is to showcase my skills in data visualization, dashboard creation, and performing sentiment analysis on written reviews using [NLTK VADER](https://www.nltk.org/api/nltk.sentiment.vader.html) for python (module citation found at bottom of README). The dataset I used for this project can be found [here](https://www.kaggle.com/datasets/kanchana1990/singapore-airlines-reviews) at kaggle.com. The dashboard for this project can be found [here](https://public.tableau.com/app/profile/travis.wolf1141/viz/AirlineReviews_17187414963740/Dashboard1), on Tableau Public.
+[Project Dashboard on Tableau Public](https://public.tableau.com/app/profile/travis.wolf1141/viz/AirlineReviews_17187414963740/Dashboard1)
 
-This project will be examining a dataset of 10,000 online reviews of Singapore Airlines from September 2018 to March 2024. Each online review can be rated with a score of one to five, with five being the highest and one the lowest. Each review is also allowed to have a written section where customers are allowed a paragraph of text to describe thier experience with the airline. Customers are also asked when they are rating thier experience if they are using a mobile phone or a computor desktop.
+[Dataset for this project](https://www.kaggle.com/datasets/kanchana1990/singapore-airlines-reviews)
+
+The purpose of this repository is to showcase my skills in data visualization, dashboard creation, and performing sentiment analysis on written reviews using [NLTK VADER](https://www.nltk.org/api/nltk.sentiment.vader.html) for python (module citation found at bottom of README). This project will be examining a dataset of 10,000 online reviews of Singapore Airlines from September 2018 to March 2024. Each online review can be rated with a score of one to five and contains a written section where customers are allowed a paragraph of text to describe their experience with the airline. Customers are also asked when they are rating thier experience if they're using a mobile phone or a computer desktop.
 
 Using the data described above, I have several questions I want answered:
-  1. What was the preferrred device platform (Desktop or Mobile) used to make an online review? Did platform preferences change over time?
+  1. What was the preferred device platform (desktop or mobile) used to make an online review? Did platform preferences change over time?
   2. What were the overall ratings of the airline reviews?
   3. What was the overall sentiment of the written reviews, positive or negative? Did it match the rating scores?
-  4. What was the average rating of the Airline during each month?
+  4. What was the average rating of the airline during each month?
   5. How many reviews were posted each month?
 
 NLTK VADER Module Citation:
